@@ -1,0 +1,15 @@
+{
+  "name": "dl-cli",
+  "version": "1.0.0",
+  "description": "Download videos & audio from YouTube, TikTok, Instagram, Twitter/X, Spotify and 1000+ sites",
+  "main": "index.js",
+  "bin": {
+    "dl-cli": "./index.js"
+  },
+  "keywords": ["download", "youtube", "tiktok", "instagram", "spotify", "cli"],
+  "author": "imaan",
+  "license": "MIT",
+  "dependencies": {
+    "cli-progress": "^3.12.0"
+  }
+}
